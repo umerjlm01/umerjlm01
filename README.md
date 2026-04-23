@@ -8,8 +8,6 @@
 
 ![Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umerjlm01&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umerjlm01&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🔥 Contribution Streak
